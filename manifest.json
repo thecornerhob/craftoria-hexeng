@@ -1,6 +1,6 @@
 {
   "pack": "Craftoria @ Hex-Engineering",
-  "version": "20260708193412",
+  "version": "20260708195511",
   "server": "129.146.200.73:25565",
   "files": [
     {
@@ -3058,12 +3058,6 @@
       "size": 62090
     },
     {
-      "path": "resourcepacks/§9Drodi's Illagers x FA [v5.2].zip",
-      "url": "https://edge.forgecdn.net/files/7224/935/%c2%a79Drodi%27s%20Illagers%20x%20FA%20%5bv5.2%5d.zip?api-key=267C6CA3",
-      "sha1": "aa2450ad6714794bed25637802b1b6b20ce4e17b",
-      "size": 269453
-    },
-    {
       "path": "resourcepacks/Pretty X Smart Pipez Mekanism.zip",
       "url": "https://edge.forgecdn.net/files/6139/357/Pretty%20X%20Smart%20Pipez%20Mekanism.zip?api-key=267C6CA3",
       "sha1": "f221acf545c879b5bfdf30e819747d64183ec78f",
@@ -3257,7 +3251,6 @@
     "file/Torchmaster Remaster.zip",
     "file/Chaotix Apotheotic Tweaks v2.0 1.21.1.zip",
     "file/Fine Armoury v1.7.zip",
-    "file/§9Drodi's Illagers x FA [v5.2].zip",
     "file/FreshAnimations_v1.10.4.zip",
     "file/golems-refreshed-v2.1.zip",
     "file/boss-refreshed-v2-1.19-1.21.zip",
